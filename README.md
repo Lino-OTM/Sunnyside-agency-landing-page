@@ -6,7 +6,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ![](/design/desktop-preview.jpg)
 
-Link: https://vermillion-pastelito-279944.netlify.app/
+Link: https://creative-medovik-9c23d4.netlify.app/
 
 ### Built with:
 
